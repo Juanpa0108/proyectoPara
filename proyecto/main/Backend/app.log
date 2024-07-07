@@ -1,0 +1,27 @@
+[2024-06-27 01:54:24] Updated task 'nose' in project 'hola' with new date '2024-07-04'
+[2024-06-27 01:59:42] La tarea 'nose' del proyecto 'hola' fue actualizada con una nueva fecha de finalización '2024-07-18'
+[2024-06-27 02:07:41] La tabla para el proyecto 'dos' fue creada con fecha de inicio '2024-06-05' y fecha de finalizacion '2024-07-04'
+[2024-06-27 02:07:57] Se inserto la tarea 'tres' al proyecto 'dos' con fecha de inicio '2024-06-19' y fecha de fin '2024-06-26'
+[2024-06-27 02:08:05] La tarea 'tres' del proyecto 'dos' fue eliminada
+[2024-06-27 02:08:22] El proyecto 'dos' fue eliminado
+[2024-06-27 22:30:52] El proyecto 'hola' cambio su fecha de finalizacion a '2024-07-05'
+[2024-06-28 22:00:02] El proyecto 'hola' cambio su fecha de finalizacion a '2024-07-26'
+[2024-06-28 22:02:17] La tarea 'nose' del proyecto 'hola' cambio su fecha de finalizacion a '2024-07-01'
+[2024-06-28 22:06:50] La tabla para el proyecto 'prueba' fue creada con fecha de inicio '2024-06-28' y fecha de finalizacion '2024-07-06'
+[2024-06-28 22:07:03] El proyecto 'prueba' ha sido borrado correctamente
+[2024-06-28 22:11:03] La tarea 'nose' del proyecto 'hola' fue eliminada
+[2024-06-28 22:12:36] La tabla para el proyecto 'prueba' fue creada con fecha de inicio '2024-06-28' y fecha de finalizacion '2024-07-06'
+[2024-06-28 22:13:22] Se inserto la tarea 'dos' al proyecto 'prueba' con fecha de inicio '2024-06-28' y fecha de fin '2024-06-29'
+[2024-06-28 22:13:33] La tarea 'dos' del proyecto 'prueba' fue eliminada
+[2024-06-28 22:17:00] La tabla para el proyecto 'hola' fue creada con fecha de inicio '2024-06-18' y fecha de finalizacion '2024-07-06'
+[2024-06-28 22:17:21] Se inserto la tarea 'prueba' al proyecto 'hola' con fecha de inicio '2024-06-28' y fecha de fin '2024-06-29'
+[2024-06-28 22:17:45] La tarea 'prueba' del proyecto 'hola' fue eliminada
+[2024-06-28 22:23:07] El proyecto 'final' fue creado con fecha de inicio '2024-06-28' y fecha de finalizacion '2024-07-05'
+[2024-06-28 22:29:42] Se inserto la tarea 'toby' al proyecto 'final' con fecha de inicio '2024-06-28' y fecha de fin '2024-07-03'
+[2024-07-01 21:19:46] Se inserto la tarea 'prueba' al proyecto 'final' con fecha de inicio '2024-07-01' y fecha de fin '2024-07-05'
+[2024-07-01 21:20:27] La tarea 'preuba' del proyecto 'final' cambio su fecha de finalizacion a '2024-07-19'
+[2024-07-01 21:21:13] La tarea 'prueba' del proyecto 'final' fue eliminada
+[2024-07-01 21:21:39] El proyecto 'final' cambio su fecha de finalizacion a '2024-07-18'
+[2024-07-01 21:21:53] El proyecto 'final' ha sido borrado correctamente
+[2024-07-01 21:26:13] Se inserto la tarea 'prueba' al proyecto 'hola' con fecha de inicio '2024-07-01' y fecha de fin '2024-07-06'
+[2024-07-01 21:26:35] La tarea 'prueba' del proyecto 'hola' cambio su fecha de finalizacion a '2024-07-12'
